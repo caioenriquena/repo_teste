@@ -1,4 +1,5 @@
-from time import sleep
+from time import sleep, localtime
 x = int(input("informe um valor: "))
-sleep (1.5)
+sleep (1)
+print (localtime)
 print (x)
