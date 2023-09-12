@@ -3,3 +3,5 @@ x = int(input("informe um valor: "))
 sleep (1)
 print (localtime)
 print (x)
+
+print("alo bilel")
